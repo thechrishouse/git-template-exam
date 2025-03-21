@@ -8,7 +8,7 @@
 *This will be a link to the map or design behind the change decisions.*  
 
 ## Types of changes  
-*What types of changes does your code introduce to Periodikal?*  
+*What types of changes does your code introduce to Periodikal?* 
 
 _Put an `x` in the boxes that apply:_  
 - [ ] Bugfix (non-breaking change which fixes an issue)  
